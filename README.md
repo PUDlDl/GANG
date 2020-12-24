@@ -1,10 +1,11 @@
-## 'Clone this project'
+### ``PUDIDI GANG``
+## `Clone this project`
 
 ```php
 > git clone https://github.com/PUDlDl/GANG
 ```
 
-## 'Install the dependencies:'
+## `Install the dependencies:`
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
@@ -13,13 +14,13 @@ you've just cloned!!
 > bash install.sh
 ```
 
-### Usage
+### `Usage..`
 ```php
 > npm start
 ```
 
 
-## 'Features'
+## `Features`
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |

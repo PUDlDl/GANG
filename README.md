@@ -1,26 +1,25 @@
-## Clone this project
+## 'Clone this project'
 
-```bash
+```php
 > git clone https://github.com/PUDlDl/GANG
 ```
 
-## Install the dependencies:
+## 'Install the dependencies:'
 Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
-```bash
+```php
 > cd GANG
 > bash install.sh
 ```
 
 ### Usage
-```bash
+```php
 > npm start
 ```
 
-## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-## Features
+## 'Features'
 
 | Sticker Creator |                Feature           |
 | :-----------: | :--------------------------------: |

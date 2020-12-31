@@ -1,63 +1,70 @@
 const help = (prefix) => {
-	return `> *Sticker Commands* <
-command : *${prefix}sticker* or *${prefix}stiker*
-desc : convert image/gif/video to sticker
+	return `Haiiiiiiiii_-
+
+*[INJECT SIMPLE]*
+
+-❥ *Sticker Commands* 
+➥ Perintah : *${prefix}sticker* atw *${prefix}stiker*
+desklipci : convert image/gif/video to sticker
 usage : reply image/gif/video, or send image/gif/video with caption\n
-command : *${prefix}sticker nobg* or *${prefix}stiker nobg*
-desc : convert image to sticker while removing the background
+➥ Perintah : *${prefix}sticker nobg* or *${prefix}stiker nobg*
+desklipci : convert image to sticker while removing the background
 usage : reply image, or send image with caption\n
-command : *${prefix}toimg*
-desc : convert sticker to image
+➥ Perintah : *${prefix}toimg*
+desklipci : convert sticker to image
 usage : reply sticker\n
-command : *${prefix}tsticker* or *${prefix}tstiker*
-desc : convert text to sticker
+➥ Perintah : *${prefix}tsticker* or *${prefix}tstiker*
+desklicpi : convert text to sticker
 usage : *${prefix}tsticker text in here*\n
-> *Meme Commands* <
-command : *${prefix}meme*
-desc : random meme images [english]
+
+-❥ *Meme Commands* 
+➥ Perintah : *${prefix}meme*
+desklipci : random meme images [english]
 usage : just send the command\n
-command : *${prefix}memeindo*
-desc : random meme images [indo]
+➥ Perintah : *${prefix}memeindo*
+desklipci : random meme images [indo]
 usage : just send the command\n
-> *Others Commands* <
-command : *${prefix}gtts*
-desc : convert text to speech/audio
+
+-❥ *Others Commands* 
+➥ Perintah : *${prefix}gtts*
+desklipci : convert text to speech/audio
 usage : *${prefix}gtts [cc] [text]*\nexample : *${prefix}gtts ja On2-chan*\n
-command : *${prefix}loli*
-desc : random loli images
+➥ Perintah : *${prefix}loli*
+desklipci : random loli images
 usage : just send the command\n
-command : *${prefix}nsfwloli*
-desc : random nsfw loli images
+➥ Perintah : *${prefix}nsfwloli*
+desklipci : random nsfw loli images
 usage : just send the command\n
-command : *${prefix}url2img*
-desc : take web screenshots
+➥ Perintah : *${prefix}url2img*
+dekslipci : take web screenshots
 usage : *${prefix}url2img [tipe] [url]*\n
-command : *${prefix}simi*
-desc : your message will be replied to by simi
+Perintah : *${prefix}simi*
+desklipci : your message will be replied to by simi
 usage : *${prefix}simi yourmessage*\n
-command : *${prefix}ocr*
-desc : take the text in the picture
+➥ Perintah : *${prefix}ocr*
+desklipci : take the text in the picture
 usage : reply image, or send image with caption\n
-command : *${prefix}wait*
-desc : search anime with image [ What Anime Is This/That ]
+➥ Perintah : *${prefix}wait*
+desklipci : search anime with image [ What Anime Is This/That ]
 usage : reply image, or send image with caption\n
-command : *${prefix}setprefix*
-desc : replace prefix
+➥ Perintah : *${prefix}setprefix*
+desklipci : replace prefix
 usage : *${prefix}setprefix [text|optional]*\nexample : *${prefix}setprefix ?*
-note : This command can only be used by the bot owner\n
-> *Group Comands* <
-command : *${prefix}linkgroup*
-desc : take the group link
+catatan : This command can only be used by the bot owner\n
+
+-❥ *Group Comands* 
+➥ Perintah : *${prefix}linkgroup*
+desklipci : take the group link
 usage : just send the command\
-note : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
-command : *${prefix}tagall*
-desc : tags all group members including admins too
+catatan : can only be used when the bot becomes admin, and the one who sends the command is admin!\n
+➥ Perintah : *${prefix}tagall*
+desklipci : tags all group members including admins too
 usage : just send the command
-note : This command can be used if you are a group admin\n
-command : *${prefix}simih*
-desc : activate simi mode in the group
+catatan : This command can be used if you are a group admin\n
+➥ Perintah : *${prefix}simih*
+desklipci : activate simi mode in the group
 usage : *${prefix}simih 1* to activate simi mode and *${prefix}simih 0* to deactivate simi mode
-note : This command can be used if you are a group admin\n`
+catatan : This command can be used if you are a group admin\n`
 }
 
 exports.help = help
